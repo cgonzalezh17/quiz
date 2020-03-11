@@ -1,0 +1,59 @@
+body{
+    background-color: #E9EDF9;
+    background-position: center center;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 30px;
+
+}
+.login-presentacion{
+
+}
+.login{
+    justify-content: center;
+    
+    background-color: WHITE;
+
+}
+
+.contenedor-1{
+    
+    display: flex;
+    box-shadow: 3px 0px 51px -5px #a4a4a4;
+    max-width: 100%;
+    text-align: center;
+}
+.login-form{
+    display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-top: 20px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+
+}
+.form-grupo{
+    margin-bottom: 10px;
+}
+.btn-sub{
+    border-radius: 20px;
+}
+
+.login-text h1{
+    text-align: center;
+    font-size: 24px;
+    margin-top: 100px ;
+    justify-content: center;
+
+}
+p{
+    margin: 40px;
+}
+h1{
+    
+    color: blue;
+}
